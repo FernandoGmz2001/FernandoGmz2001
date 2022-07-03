@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandogmz2001&label=Profile%20views&color=0e75b6&style=flat" alt="fernandogmz2001" /> </p>
 
-- 🔭 I’m currently working on [PC Web Page](https://github.com/FernandoGmz2001/PC-Web-Page)
+- 🔭 I’m currently working on [Clima ITNL](https://github.com/ZTStudios/ClimaITNL)
 
-- 🌱 I’m currently learning **CSS, JAVASCRIPT, VUE JS, REACT**
+- 🌱 I’m currently learning **JAVASCRIPT, REACT ,TAILWIND, NODE JS**
 
 - 💬 Ask me about **HTML, CSS, C#, PYTHON**
 
