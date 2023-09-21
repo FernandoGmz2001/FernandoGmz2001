@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **REACT JS, NEXTJS, PROYECT MANAGEMENT**
 
-- 💬 Ask me about **REACT JS, Javascript, APIS, PROJECT MANAGEMENT**
+- 💬 Ask me about **REACT JS, Javascript, APIS, Frontend design**
 
 - 📫 How to reach me **fernandogmz2001@gmail.com**
 
