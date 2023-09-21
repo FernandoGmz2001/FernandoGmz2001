@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandogmz2001&label=Profile%20views&color=0e75b6&style=flat" alt="fernandogmz2001" /> </p>
 
-- 🔭 I’m currently working on [Clima ITNL](https://github.com/ZTStudios/ClimaITNL)
+- 🔭 I’m currently working on a Private Repo 
 
-- 🌱 I’m currently learning **NODE JS, REACT , NEXTJS, EXPRESS**
+- 🌱 I’m currently learning **REACT JS, NEXTJS, PROYECT MANAGEMENT**
 
-- 💬 Ask me about **HTML, CSS, C#, PYTHON**
+- 💬 Ask me about **REACT JS, Javascript, APIS, PROJECT MANAGEMENT**
 
 - 📫 How to reach me **fernandogmz2001@gmail.com**
 
