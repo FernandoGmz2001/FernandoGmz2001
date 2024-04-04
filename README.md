@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a Private Repo 
 
-- 🌱 I’m currently learning **REACT JS, NEXTJS, PROYECT MANAGEMENT**
+- 🌱 I’m currently learning **REACT JS, NEXTJS, PROJECT MANAGEMENT**
 
 - 💬 Ask me about **REACT JS, Javascript, APIS, Frontend design**
 
