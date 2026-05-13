@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Ultralink Plus as Frontend Developer and UX/UI Designer.\
+👨‍💻 &nbsp;I am Currently Working at ADUANET as Frontend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at Instituto Tecnologico de Nuevo Laredo .\
+🎓 &nbsp;I'm currently studying a Masters Degree in Tecmilenio.\
 🌱 &nbsp;I'm on track for learning more about cache and web optimizations.\
 ✍️ &nbsp;In my free time, I pursue UI/UX design.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
